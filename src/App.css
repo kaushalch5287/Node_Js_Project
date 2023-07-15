@@ -84,28 +84,3 @@ input[type="date"] {
 .buttons button:hover {
   background-color: #fa0303;
 }
-
-
-.contact-info {
-  display: flex;
-  align-items: center;
-}
-
-.contact-image {
-  width: 200px;
-  height: auto;
-  margin-right: 20px;
-}
-
-.contact-details {
-  color: #ffffff;
-}
-
-.contact-details h2 {
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-
-.contact-details p {
-  margin: 5px 0;
-}
